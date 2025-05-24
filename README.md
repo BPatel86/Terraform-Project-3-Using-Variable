@@ -1,5 +1,7 @@
 # Terraform-Project-3-Using-Variable
 
+https://github.com/BPatel86/Terraform-Project-4-using-Count-Index.git 
+
 # Terraform Project - Launching EC2 Instances Using Map and List Variables
 
 This project demonstrates how to launch multiple EC2 instances in AWS using Terraform by leveraging **map** and **list** variables for instance types.
